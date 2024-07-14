@@ -1,4 +1,18 @@
- --- CLBasic 1.2 Programming ---
+# A Note From Wish
+
+Smaller version of CLBOS (SmallCL.py)
+is
+Meant to be offered as a *Special Version*
+This code may take longer to update.
+Please list the cons in the Version.
+Tool used: https://freecodingtools.org/online-minifier/python
+Pros:
+- 223 Bytes Saved
+Cons:
+- Less Updates
+- Might take longer
+- Beta build (May not work on many systems!)
+--- CLBasic 1.2 Programming ---
 
 NOTE: CLBOS Only runs in an IDE debugger, Such as Visual Studio Code for example.
 
