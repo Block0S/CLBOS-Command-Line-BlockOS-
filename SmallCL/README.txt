@@ -1,4 +1,3 @@
- --- CLBasic 1.2 Programming ---
 # A Note From Wish
 
 Smaller version of CLBOS (SmallCL.py)
